@@ -6,7 +6,7 @@ Thanks for checking out my Profile!
  - 🔭 I am interested in Software Development and Deep Learning(still Learning!!).
  - 🔭 Good at Mentoring, Leadership and Quick Learning.
  - you can checkout my website [here](https://bharathbrothers.github.io/) and a useful website and blog [here](https://starksources.github.io/myblog/).
- - checkout my resume [here](https://bharathbrothers.github.io/resume/)
+ - checkout my resume [here](https://bharathbrothers.github.io/resume/) (not the latest one!)
  - Reach me on [linkedin](https://www.linkedin.com/in/bharath-kumar-goud/).  
 
 
