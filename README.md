@@ -2,7 +2,7 @@
 
 Thanks for checking out my Profile!
 
- - 🔭 I am currently a Masters Student in Computer Science and Engineering at IIT Tirupati.
+ - 🔭 I am currently a Masters Student.
  - 🔭 I am interested in Software Development and Deep Learning(still Learning!!).
  - 🔭 Good at Mentoring, Leadership and Quick Learning.
  - you can checkout my website [here](https://bharathbrothers.github.io/) and a useful website and blog [here](https://starksources.github.io/myblog/).
